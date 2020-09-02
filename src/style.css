@@ -1,0 +1,232 @@
+.opacity-3 {
+    opacity: .5;
+}
+
+.margein {
+    position: relative;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: -330px;
+}
+
+.left {
+    position: relative;
+    left: 200px;
+}
+
+.p-5 {
+    padding: 60px;
+}
+
+.ml-auto {
+    margin-left: 5%;
+}
+
+.mr-auto {
+    margin-left: 43%;
+}
+
+.justi {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.containerSlide {
+    position: relative;
+    top: -209px;
+    width: 1610px;
+    margin: auto;
+
+}
+
+.containerSlide img {
+  height: 330px;
+margin-left: 30px;
+margin-right: 30px;
+}
+
+
+.each-slide{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.with-80 {
+  position: relative;
+top: -179px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.pos {
+    position: relative;
+    top: -256px;
+    left: -261px;
+}
+
+.is-right {
+    position: relative;
+    right: 165px;
+}
+
+.huge {
+    position: relative;
+    top: -318px;
+    left: -77px;
+    font-size: 465px;
+    color: rgb(0 0 0 / 5%);
+}
+
+.is-center {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.imgss {
+  width: 822px;
+position: relative;
+left: 82px;
+}
+
+.with-8 {
+  position: relative;
+  width: 106%;
+  LEFT: 83px;
+}
+
+.top{
+  position: relative;
+
+  top: -578px;
+}
+
+.top2{
+  position: relative;
+top: -150px;
+}
+.top3{
+  position: relative;
+    top: -521px;
+}
+
+  .top4 {
+      position: relative;
+      top: 289px;
+}
+
+.rotated {
+    transform: rotate(90deg);
+    position: relative;
+    top: 166px;
+    left: 111px;
+    height: fit-content;
+    width: 94%;
+}
+
+
+
+.sss {
+    position: relative;
+    top: -17px;
+}
+
+.with-81 {
+    position: relative;
+    width: 27%;
+    margin-right: 100px;
+}
+.img8 {
+    position: relative;
+    width: 318px;
+    height: 485px;
+}
+
+.left{
+  position: relative;
+      left: 211px;
+          top: -434px;
+}
+
+
+.img8s {
+  position: relative;
+top: -199px;
+width: 250px;
+height: 372px;
+-webkit-box-shadow: 33px 32px 0px 0px rgba(158,158,158,0.35);
+-moz-box-shadow: 33px 32px 0px 0px rgba(158,158,158,0.35);
+box-shadow: 33px 32px 0px 0px rgba(158,158,158,0.35);
+}
+.huge2 {
+    position: relative;
+    top: -256px;
+    left: -46px;
+    font-size: 465px;
+    color: rgb(0 0 0 / 5%);
+}
+.huge3 {
+    position: relative;
+    top: -326px;
+    left: 163px;
+    font-size: 355px;
+    color: rgb(0 0 0 / 5%);
+}
+.with-8100 {
+    text-align: center;
+}
+.with-8qq {
+    position: relative;
+    width: 40%;
+    margin-left: 100px;
+}
+.imgsssh {
+    position: relative;
+    width: 86%;
+    margin-left: 100px;
+    -webkit-box-shadow: -99px -147px 0px 0px rgba(158, 158, 158, 0.35);
+    -moz-box-shadow: -99px -147px 0px 0px rgba(158, 158, 158, 0.35);
+    box-shadow: -99px -147px 0px 0px rgba(158, 158, 158, 0.35);
+}
+.imssh {
+    position: relative;
+    width: 86%;
+    margin-left: 100px;
+    -webkit-box-shadow: 57px -55px 0px 6px rgba(224, 224, 224, 1);
+    -moz-box-shadow: 57px -55px 0px 6px rgba(224, 224, 224, 1);
+    box-shadow: 57px -55px 0px 6px rgba(224, 224, 224, 1);
+}
+
+iframe{
+  position: relative;
+    top: -436px;
+left: 30px;
+width: 79%;
+height: 810px;
+box-shadow: 800px 500px 0px 20px rgba(232,232,232,1);
+}
+
+.weee {
+  position: relative;
+  width: 740px;
+  left: 26px;
+  font-size: 21px;
+  top: -391px;
+}
+.semi {
+    position: relative;
+    font-size: 143px;
+    left: 32px;
+    TOP: -59px;
+    z-index: -1;
+    opacity: .3;
+    font-family: sans-serif;
+}
+.back{
+  position: relative;
+font-size: 390px;
+top: -222px;
+opacity: .1;
+
+}
